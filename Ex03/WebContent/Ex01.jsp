@@ -12,5 +12,8 @@
 		<li>김지현 수정~_~</li>
 		<li>수정 되라</li>
 	</ul>
+	<script>
+		alert('수정2차');
+	</script>
 </body>
 </html>
