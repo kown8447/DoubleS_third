@@ -15,6 +15,7 @@
 		<li>지은</li>
 		<li>장현</li>
 		<li>홍모push테스트</li>
+		<li>충돌 연습</li>
 	</ul>
 	<script>
 		alert('수정2차');
