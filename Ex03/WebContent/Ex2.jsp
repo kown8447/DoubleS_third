@@ -9,14 +9,6 @@
 <body>
 	<ul>
 		<li>테스트</li>
-		<li>김지현 수정~_~</li>
-		<li>수정 되라</li>
-		<li>홍성모아니고 성홍모</li>
-		<li>지은</li>
-		<li>장현</li>
 	</ul>
-	<script>
-		alert('수정2차');
-	</script>
 </body>
 </html>
