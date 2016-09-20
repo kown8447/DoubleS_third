@@ -14,5 +14,8 @@
 		<li>지은</li>
 		<li>장현</li>
 	</ul>
+	<script>
+		alert('수정2차');
+	</script>
 </body>
 </html>
