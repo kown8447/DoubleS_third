@@ -10,6 +10,7 @@
 	<ul>
 		<li>테스트</li>
 		<li>수정 되라</li>
+		<li>지은</li>
 	</ul>
 </body>
 </html>
