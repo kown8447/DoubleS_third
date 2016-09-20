@@ -14,6 +14,7 @@
 		<li>홍성모아니고 성홍모</li>
 		<li>지은</li>
 		<li>장현</li>
+		<li>홍모push테스트</li>
 	</ul>
 	<script>
 		alert('수정2차');
